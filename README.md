@@ -8,7 +8,6 @@
   <a href="https://docs.agav.dev"><strong>Documentation: https://docs.agav.dev</strong></a>
 </p>
 
-
 <p>
   <img alt="Version" src="https://img.shields.io/github/package-json/v/prapaa-ai/agav?style=for-the-badge&amp;label=version&amp;color=111">
   <img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-111?style=for-the-badge">
@@ -92,25 +91,25 @@ We’re building the alternative, an AI that works for you, runs on your terms, 
 
 ## Proof
 
-* **Terminal-Bench 2.1** — 84.7% [377/445 trials ±0.84%](https://github.com/harbor-framework/terminal-bench-2-1/pull/225), top of public board.(PR under review)
-* **SWE-bench-Live Lite** — 62.0% [186/300](https://github.com/SWE-bench-Live/submission/blob/main/submissions/lite/agav/gpt-5.5), #2 on the board.
+- **Terminal-Bench 2.1** — 84.7% [377/445 trials ±0.84%](https://github.com/harbor-framework/terminal-bench-2-1/pull/225), top of public board.(PR under review)
+- **SWE-bench-Live Lite** — 62.0% [186/300](https://github.com/SWE-bench-Live/submission/blob/main/submissions/lite/agav/gpt-5.5), #2 on the board.
 
 ## Highlights
 
-* **Providers** — switch mid-session with `/model`. Fast `/fast` and deep `/deep` shortcuts.
-* **Non-interactive mode** — `agav run` and `agav --print` with per-tool permissions and optional JSON Schema output.
-* **Sessions that survive** — resume, branch, name, search and export. `/compact` reclaims context without losing plans.
-* **Skills & Agents** — reusable instruction bundles and installable service agents from a marketplace. Delegate scoped work to fresh-context subagents.
-* **Memory** — cross-session memories per project: user preferences, feedback, project decisions, references.
-* **Repository-aware editing** — LSP queries, notebook support, test running, `/undo`, and planning UI.
+- **Providers** — switch mid-session with `/model`. Fast `/fast` and deep `/deep` shortcuts.
+- **Non-interactive mode** — `agav run` and `agav --print` with per-tool permissions and optional JSON Schema output.
+- **Sessions that survive** — resume, branch, name, search and export. `/compact` reclaims context without losing plans.
+- **Skills & Agents** — reusable instruction bundles and installable service agents from a marketplace. Delegate scoped work to fresh-context subagents.
+- **Memory** — cross-session memories per project: user preferences, feedback, project decisions, references.
+- **Repository-aware editing** — LSP queries, notebook support, test running, `/undo`, and planning UI.
 
 ## Quick links
 
-* [Quick start](https://docs.agav.dev/getting-started/quick-start)
-* [CLI reference](https://docs.agav.dev/reference/cli)
-* [Tools, skills & agents](https://docs.agav.dev/features)
-* [Workflows & automation](https://docs.agav.dev/workflows)
-* [Changelog](https://github.com/prapaa-ai/agav/releases)
+- [Quick start](https://docs.agav.dev/getting-started/quick-start)
+- [CLI reference](https://docs.agav.dev/reference/cli)
+- [Tools, skills & agents](https://docs.agav.dev/features)
+- [Workflows & automation](https://docs.agav.dev/workflows)
+- [Changelog](https://github.com/prapaa-ai/agav/releases)
 
 ## Community
 
@@ -123,4 +122,5 @@ Discord: [discord.gg/6u3m2JN6k](https://discord.gg/6u3m2JN6k)
 
 ---
 
-*Documentation source lives in [`docs/`](./docs/). To run locally: `cd docs && npm install && npm run dev`.*
+_Documentation source lives in [`docs/`](./docs/). To run locally: `cd docs && npm install && npm run dev`._
+this is test case
